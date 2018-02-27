@@ -8,6 +8,3 @@
 
 	#your code here
 end
-
-
-
